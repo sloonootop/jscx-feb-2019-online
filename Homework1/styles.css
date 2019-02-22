@@ -1,0 +1,73 @@
+h1 {
+    font-size: 2.5em;
+    background-color: lightskyblue;
+}
+
+h2 {
+    font-size: 1.3em;
+    background-color: lightgrey;
+}
+
+h3 {
+    font-size: 1.1em;
+    line-height: 0em;
+
+}
+
+
+div {
+    padding: 5px;
+    margin: 0 15px 15px 0;
+    line-height: 1.3em;
+}
+
+.common-info {
+    clear: both;
+}
+
+.common-info-txt {
+    width: 75%;
+    height: 100%;
+    float: left;
+}
+
+.common-info-img {
+    width: 20%;
+    height: 100%;
+    float: left;
+    border: 0.5px solid grey;
+    background-color: #F5F5F5;
+}
+
+.common-info-img-top {
+    text-align: center;
+}
+.common-info-img-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.common-info-txt-tbl {
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#left {
+    text-align: left;
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+#right {
+    text-align: left;
+    padding-left: 10px;
+}
+
+#common-table-head {
+    background-color: lightgray;
+}
+
+#common-table-body {
+    padding: 10px;
+}
